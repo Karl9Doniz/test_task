@@ -2,6 +2,8 @@
 
 This is a test task in which I finished implementing the DocumentManager class.
 
+The file itself is located in ```src/main/java/com/andre/DocumentManager.java```
+
 It is also possible to test the functionality. There are 2 options:
 
 1. Use tools the IDE of your choice. I used **IntelliJ** to complete the task.
